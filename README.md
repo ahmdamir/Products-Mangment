@@ -25,7 +25,7 @@ This project allows you to **create, read, update, and delete products**, with *
 
 ## Screenshot
 
-![Product Management Screenshot](screenshot.png)
+![Product Management Screenshot](Products_Mangment.png)
 
 ---
 
